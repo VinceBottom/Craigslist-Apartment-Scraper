@@ -1,0 +1,7 @@
+This project scrapes Craigslist apartment posts for San Francisco based on built-in Craigslist parameters to find ADUs (accessory dwelling units) or in-law suites posted today.
+
+It takes these results and compiles them into a CSV, which can easily be opened with MS Excel.
+
+To search in your city instead of San Francisco, simply replace the requests link with a Craigslist link with your desired parameters.
+
+Happy apartment hunting!
